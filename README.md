@@ -2,7 +2,7 @@ EXCURSION
 
 This project is simply a warm up to the basics of committing changes and developing a webpage based on a wireframe.
 
-This is based a codecademy project.
+This is a codecademy project.
 
 This is based off the following urls
 
