@@ -1,6 +1,13 @@
-Project Title
+EXCURSION
 
-A brief description of what your project does and who it's for.
+This project is simply a warm up to the basics of committing changes and developing a webpage based on a wireframe
+
+This is based off the following urls
+
+url 1: https://content.codecademy.com/programs/freelance-one/excursion/mocks/excursion.png?_gl=1*1kd95en*_gcl_au*OTM0NDY3NTIwLjE3Mzc0ODk0MjU.*_ga*NDA4MDMyMjE2Mi4xNzM3NDg4Mzg3*_ga_3LRZM6TM9L*MTczODkxNTI3NC42OS4xLjE3Mzg5MTc0NzYuNTguMC4w
+
+url 2: https://content.codecademy.com/programs/freelance-one/excursion/mocks/excursion_redline.png?_gl=1*1kd95en*_gcl_au*OTM0NDY3NTIwLjE3Mzc0ODk0MjU.*_ga*NDA4MDMyMjE2Mi4xNzM3NDg4Mzg3*_ga_3LRZM6TM9L*MTczODkxNTI3NC42OS4xLjE3Mzg5MTc0NzYuNTguMC4w
+
 
 Table of Contents
 
@@ -32,15 +39,9 @@ Usage
 How to use the project with examples.
 
 # Run the application
-npm start  # or python app.py
+-
 
-Features
 
-Feature 1
-
-Feature 2
-
-Feature 3
 
 Contributing
 
