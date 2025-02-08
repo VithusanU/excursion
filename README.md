@@ -9,6 +9,7 @@ This is based off the following urls
 url 1: https://content.codecademy.com/programs/freelance-one/excursion/mocks/excursion.png?_gl=1*1kd95en*_gcl_au*OTM0NDY3NTIwLjE3Mzc0ODk0MjU.*_ga*NDA4MDMyMjE2Mi4xNzM3NDg4Mzg3*_ga_3LRZM6TM9L*MTczODkxNTI3NC42OS4xLjE3Mzg5MTc0NzYuNTguMC4w
 
 url 2: https://content.codecademy.com/programs/freelance-one/excursion/mocks/excursion_redline.png?_gl=1*1kd95en*_gcl_au*OTM0NDY3NTIwLjE3Mzc0ODk0MjU.*_ga*NDA4MDMyMjE2Mi4xNzM3NDg4Mzg3*_ga_3LRZM6TM9L*MTczODkxNTI3NC42OS4xLjE3Mzg5MTc0NzYuNTguMC4w
+![image](https://github.com/user-attachments/assets/a5b6ac82-6920-48b3-a446-360386d7dd76)
 
 
 Table of Contents
@@ -28,7 +29,7 @@ Installation
 Instructions on how to install and set up your project.
 
 # Clone the repository
-git clone https://github.com/your-username/your-repo.git
+git clone [https://github.com/your-username/your-repo.git](https://github.com/VithusanU/excursion.git)
 
 # Navigate into the directory
 cd your-repo
